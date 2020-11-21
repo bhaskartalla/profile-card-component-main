@@ -50,7 +50,7 @@ body {
   justify-content: space-evenly;
   align-items: center;
   flex-direction: column;
-  margin-top: -70px;
+  margin-top: -90px;
 }
 
 .profile img {
@@ -65,7 +65,7 @@ body {
 .profile > div > h2 {
   margin-bottom: 10px;
   color: rgb(45, 50, 72);
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .profile > div > h2 > small {
@@ -83,7 +83,7 @@ body {
   background-color: #fff;
   border-radius: 15px;
   display: grid;
-  grid-template-rows: 2fr 2fr 1.5fr;
+  grid-template-rows: 2fr 2fr 1.2fr;
 }
 
 .info {
@@ -91,7 +91,6 @@ body {
   justify-content: space-evenly;
   align-items: center;
   border-top: 1px solid rgb(106 111 129 / 29%);
-  padding: 10px 0;
 }
 .info div {
   text-align: center;
